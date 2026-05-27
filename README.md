@@ -26,15 +26,7 @@ Araç, verilen hedef URL üzerinde wordlist içindeki yolları dener ve sonuçla
 
 - Hızlı tarama
 - Thread desteği
-- Temiz tek satırlık çıktı
-- Interactive kullanım
-- Direkt komutla kullanım
-- `Ctrl+C` ile güvenli çıkış
-- Bulunan sonuçları en sonda tekrar gösterme
-- Kırmızı terminal teması
-- Windows CMD başlığı değiştirme
 - 300+ path içeren wordlist
-- 404 sonuçlarını gizleme seçeneği
 - Sonuçları dosyaya kaydetme
 - Custom wordlist desteği
 
